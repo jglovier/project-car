@@ -20,6 +20,7 @@ This repo is where I'm tracking progress on the project car I've always wanted t
 
 ### Interior
 - billet aluminum shift knob (universal)
+- Pioneer DEH-X6700BT 50Wx4 receiver
 
 ### Exterior
 - carbon fiber hood

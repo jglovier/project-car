@@ -1,3 +1,5 @@
+![image](https://cloud.githubusercontent.com/assets/1319791/9418616/3db449b8-4823-11e5-80c1-1fe371600e2d.png)
+
 # My 2000 Honda EM1
 
 This repo is where I'm tracking progress on the project car I've always wanted to build: a 2000 Honda Civic Si.

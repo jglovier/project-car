@@ -18,7 +18,8 @@ This repo is where I'm tracking progress on the project car I've always wanted t
 
 ### Suspension/brakes/wheels
 - OEM alloy wheels
-- OEM Si strut bar
+- OEM Si front strut bar
+- OEM Si rear sway bar
 - Eibach Sportline springs & Pro-Damper shocks
 - Skunk2 rear LCAs
 

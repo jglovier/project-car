@@ -1,4 +1,4 @@
-![image](https://cloud.githubusercontent.com/assets/1319791/9418616/3db449b8-4823-11e5-80c1-1fe371600e2d.png)
+![image](https://s3.amazonaws.com/f.cl.ly/items/3o0B2w1s1K123z1P3Q0t/IMG_6168-retouch.jpg)
 
 # My 2000 Honda EM1
 

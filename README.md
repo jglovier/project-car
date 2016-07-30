@@ -15,6 +15,9 @@ This repo is where I'm tracking progress on the project car I've always wanted t
 - B16A2 motor
 - AEM cold air intake
 - DC cat-back exhaust
+- Skunk2 performance radiator & Skunk2 radiator hoses
+- Hasport motor mounts
+- K&N fuel filter
 
 ### Suspension/brakes/wheels
 - OEM alloy wheels

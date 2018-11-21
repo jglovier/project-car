@@ -1,4 +1,4 @@
-![image](photos/IMG_6168-retouch.jpg)
+![civic-em-1](https://user-images.githubusercontent.com/1319791/48812844-0ded7100-ece9-11e8-944d-4572480069b0.jpg)
 
 # My 2000 Honda EM1
 
